@@ -22,11 +22,8 @@ const styles={
         },
         '& > img': {
             maxWidth: '100%',
-            transform: 'scale(0.98)',
+            transform: 'scale(1)',
             transition: '0.3s',
-            '&:hover':{
-                transform: 'scale(1)'
-            },
         },
     }
 }
